@@ -1,0 +1,15 @@
+{
+  "name": "DominicMila",
+  "version": "0.0.1",
+  "description": "Dominic de consola de Mila",
+  "main": "DominicMila.js",
+  "scripts": {
+    "start": "node --unhandled-rejections=warn DominicMila.js"
+  },
+  "author": "ThePinkLyna",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+  "packageManager": "yarn@2.4.3"
+}
